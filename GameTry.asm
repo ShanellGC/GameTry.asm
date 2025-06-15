@@ -1,10 +1,10 @@
 // GameTry.asm.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //; Program Name:   Template (Template.asm)				
 //; Program Description:							
-//• Shanell Chavez
-//• CSC 2025.X42 (CRN: 12625) 
-//• Instructor: Pam Phillips
-//• 6/5/2025							
+//â€¢ Shanell Chavez
+//â€¢ CSC 2025.X42 (CRN: 12625) 
+//â€¢ Instructor: Pam Phillips
+//â€¢ 6/5/2025							
 
 
 INCLUDE C : \Irvine\Irvine32.inc
